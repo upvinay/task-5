@@ -1,0 +1,398 @@
+Serial Number,market_place,customer_id,review_id,product_id,product_parent,product_category,star_rating,helpful_votes,total_votes,vine,verified_purchase,review_date,Review,Sentiment
+0,"""US""","""25933450""","""RJOVP071AVAJO""","""0439873800""","""84656342""","""Books""",5,0,0,No,Yes,31-08-2015," ""Absolutely fantastic, loved it!""",positive
+1,"""US""","""1801372""","""R1ORGBETCDW3AI""","""1623953553""","""729938122""","""Books""",2,0,0,No,Yes,31-08-2015," ""Terrible experience, not recommended.""",negative
+2,"""US""","""5782091""","""R7TNRFQAOUTX5""","""142151981X""","""678139048""","""Books""",3,0,0,No,Yes,31-08-2015,"""It's okay, not great but not bad either.""",neutral
+3,"""US""","""32715830""","""R2GANXKDIFZ6OI""","""014241543X""","""712432151""","""Books""",5,0,0,No,No,31-08-2015," ""Absolutely fantastic, loved it!""",positive
+4,"""US""","""14005703""","""R2NYB6C3R8LVN6""","""1604600527""","""800572372""","""Books""",5,2,2,No,Yes,31-08-2015," ""Absolutely fantastic, loved it!""",positive
+5,"""US""","""36205738""","""R13U5PBJI1H94K""","""0399170863""","""559876774""","""Books""",1,1,1,No,No,31-08-2015," ""Waste of money. Really disappointing.""",negative
+6,"""US""","""44121167""","""R1H8UVH990F8VE""","""1517007240""","""299984591""","""Books""",3,2,2,No,No,31-08-2015,"""It's okay, not great but not bad either.""",neutral
+7,"""US""","""16519255""","""R2MC0N30WZMRQ5""","""0671728725""","""821650353""","""Books""",5,0,0,No,Yes,31-08-2015," ""Absolutely fantastic, loved it!""",positive
+8,"""US""","""49361350""","""R2NO2HXK16Y4J""","""1111349533""","""419457767""","""Books""",5,0,0,No,Yes,31-08-2015," ""Absolutely fantastic, loved it!""",positive
+9,"""US""","""11423253""","""R245YIAVJK82ZL""","""812211637X""","""285887177""","""Books""",5,0,0,No,Yes,31-08-2015," ""Absolutely fantastic, loved it!""",positive
+10,"""US""","""37536260""","""RFBMLBWQOZ1UM""","""0679413359""","""58983679""","""Books""",5,0,0,No,Yes,31-08-2015," ""Absolutely fantastic, loved it!""",positive
+11,"""US""","""23614950""","""RHE1FEWV3KTQH""","""0983990662""","""222024699""","""Books""",4,0,0,No,Yes,31-08-2015," ""This product is amazing!""",positive
+12,"""US""","""12641855""","""R2BB9U7PHO7ETO""","""156852062X""","""388128348""","""Books""",5,0,1,No,Yes,31-08-2015," ""Absolutely fantastic, loved it!""",positive
+13,"""US""","""36327169""","""R28XJJP754GYXO""","""B0007E4WJ4""","""842975364""","""Books""",4,0,0,No,Yes,31-08-2015," ""This product is amazing!""",positive
+14,"""US""","""49735028""","""R2G519UREHRO8M""","""0664254969""","""248307276""","""Books""",1,0,1,No,Yes,31-08-2015," ""Waste of money. Really disappointing.""",negative
+15,"""US""","""39348901""","""RPBKCEIN3UISD""","""1570913722""","""9340721""","""Books""",5,0,0,No,Yes,31-08-2015," ""Absolutely fantastic, loved it!""",positive
+16,"""US""","""5782091""","""R2DOB8482VGJ8W""","""0345313860""","""630892090""","""Books""",2,0,0,No,Yes,31-08-2015," ""Terrible experience, not recommended.""",negative
+17,"""US""","""30063158""","""R2XKOET5M8W36S""","""0670025593""","""479521754""","""Books""",5,0,0,No,Yes,31-08-2015," ""Absolutely fantastic, loved it!""",positive
+18,"""US""","""125518""","""R377BCSTZ4D2QP""","""161893158X""","""399670838""","""Books""",2,1,1,No,Yes,31-08-2015," ""Terrible experience, not recommended.""",negative
+19,"""US""","""22297413""","""R3A39XZ5SB97MK""","""007179512X""","""47243107""","""Books""",3,0,0,No,Yes,31-08-2015,"""It's okay, not great but not bad either.""",neutral
+20,"""US""","""24999172""","""R31J2IHE9T6Y11""","""076034521X""","""219215049""","""Books""",4,0,0,No,No,31-08-2015," ""This product is amazing!""",positive
+21,"""US""","""4123018""","""R32V4KSMU7KPV8""","""1616892285""","""8916458""","""Books""",5,2,3,No,Yes,31-08-2015," ""Absolutely fantastic, loved it!""",positive
+22,"""US""","""23010005""","""R2690IVU807LZZ""","""1512172227""","""979422461""","""Books""",2,0,0,No,Yes,31-08-2015," ""Terrible experience, not recommended.""",negative
+23,"""US""","""47476575""","""RTSJTBBHFBTVU""","""087659013X""","""655410854""","""Books""",3,0,0,No,Yes,31-08-2015,"""It's okay, not great but not bad either.""",neutral
+24,"""US""","""40676812""","""R12EV35YZROIX""","""1938067126""","""402004849""","""Books""",5,0,0,No,Yes,31-08-2015," ""Absolutely fantastic, loved it!""",positive
+25,"""US""","""33612550""","""R1960YWFGYNOJN""","""1940595223""","""548967033""","""Books""",5,1,1,No,No,31-08-2015," ""Absolutely fantastic, loved it!""",positive
+26,"""US""","""31335505""","""R1S39XFCSASN2X""","""0321955358""","""285867457""","""Books""",4,0,0,No,Yes,31-08-2015," ""This product is amazing!""",positive
+27,"""US""","""26338037""","""RD7TD50O4BQTX""","""B00ES29WSC""","""725864791""","""Books""",2,0,0,No,Yes,31-08-2015," ""Terrible experience, not recommended.""",negative
+28,"""US""","""11078146""","""R1FZYZEBGQANOV""","""1607747308""","""839269769""","""Books""",1,0,1,No,No,31-08-2015," ""Waste of money. Really disappointing.""",negative
+29,"""US""","""294842""","""R2NA0R8NJFSCU2""","""0133083608""","""570921896""","""Books""",3,0,0,No,Yes,31-08-2015,"""It's okay, not great but not bad either.""",neutral
+30,"""US""","""12074981""","""RH3T5W9SIVZ3G""","""0755357175""","""642407727""","""Books""",2,0,0,No,Yes,31-08-2015," ""Terrible experience, not recommended.""",negative
+31,"""US""","""15434602""","""RQDUBX72ZN433""","""1612785905""","""460183208""","""Books""",1,0,0,No,Yes,31-08-2015," ""Waste of money. Really disappointing.""",negative
+32,"""US""","""40676812""","""R3Q16FQZVAV003""","""0399243313""","""776641771""","""Books""",2,0,0,No,Yes,31-08-2015," ""Terrible experience, not recommended.""",negative
+33,"""US""","""39890572""","""R8X254053KHDY""","""0393327345""","""311054036""","""Books""",1,3,3,No,Yes,31-08-2015," ""Waste of money. Really disappointing.""",negative
+34,"""US""","""34058159""","""R10QIRBIDAU34P""","""191052428X""","""942262122""","""Books""",4,9,12,No,No,31-08-2015," ""This product is amazing!""",positive
+35,"""US""","""2116513""","""RCZ048MON2I26""","""1476731012""","""322198911""","""Books""",4,0,0,No,Yes,31-08-2015," ""This product is amazing!""",positive
+36,"""US""","""14744748""","""R2BO5J39KXS9DO""","""0765362430""","""700218353""","""Books""",5,1,1,No,Yes,31-08-2015," ""Absolutely fantastic, loved it!""",positive
+37,"""US""","""679915""","""RZ2WBOI7Y65F8""","""1499296185""","""478867899""","""Books""",3,0,0,No,Yes,31-08-2015,"""It's okay, not great but not bad either.""",neutral
+38,"""US""","""34883590""","""RKRTVBF2XCO0O""","""089689293X""","""139430147""","""Books""",2,0,0,No,Yes,31-08-2015," ""Terrible experience, not recommended.""",negative
+39,"""US""","""16309756""","""R5AZPXTCE5WW3""","""0440097509""","""609904457""","""Books""",1,0,0,No,Yes,31-08-2015," ""Waste of money. Really disappointing.""",negative
+40,"""US""","""24134609""","""R1T5VG1RAVEK58""","""2361950243""","""640862524""","""Books""",2,1,1,No,Yes,31-08-2015," ""Terrible experience, not recommended.""",negative
+41,"""US""","""1586147""","""R160H4RQ5O3BA5""","""1451624433""","""933166500""","""Books""",3,1,1,No,Yes,31-08-2015,"""It's okay, not great but not bad either.""",neutral
+42,"""US""","""52810258""","""R2FCSF5Z175260""","""1515195031""","""700964473""","""Books""",3,0,0,No,Yes,31-08-2015,"""It's okay, not great but not bad either.""",neutral
+43,"""US""","""16989699""","""R1SXW6ZJCR480K""","""0062270451""","""66872382""","""Books""",4,0,0,No,Yes,31-08-2015," ""This product is amazing!""",positive
+44,"""US""","""14907137""","""R2EGNDRJHO4GGQ""","""0840029136""","""44439567""","""Books""",5,0,0,No,Yes,31-08-2015," ""Absolutely fantastic, loved it!""",positive
+45,"""US""","""9124640""","""R1YVO0YNQYFTY4""","""1566845181""","""878587221""","""Books""",3,5,5,No,Yes,31-08-2015,"""It's okay, not great but not bad either.""",neutral
+46,"""US""","""21366438""","""R28BDX8MNMRK0C""","""1464109273""","""99307772""","""Books""",1,0,0,No,Yes,31-08-2015," ""Waste of money. Really disappointing.""",negative
+47,"""US""","""49571561""","""RVNN5YJ1KNJV9""","""0807070904""","""772862930""","""Books""",2,0,0,No,Yes,31-08-2015," ""Terrible experience, not recommended.""",negative
+48,"""US""","""108834""","""R3VMA860880K90""","""0195431170""","""324698463""","""Books""",5,0,0,No,Yes,31-08-2015," ""Absolutely fantastic, loved it!""",positive
+49,"""US""","""11725528""","""RN6KF25K8D8A1""","""9953020493""","""63784452""","""Books""",2,1,1,No,No,31-08-2015," ""Terrible experience, not recommended.""",negative
+50,"""US""","""39401371""","""R270OXGB7VM32Y""","""1554070686""","""353420931""","""Books""",3,0,0,No,Yes,31-08-2015,"""It's okay, not great but not bad either.""",neutral
+51,"""US""","""22831157""","""R38D56Z3M36EYX""","""1935414283""","""783156692""","""Books""",5,0,0,No,Yes,31-08-2015," ""Absolutely fantastic, loved it!""",positive
+52,"""US""","""36479105""","""R3J6THSJ6OO5H6""","""0552170534""","""969778319""","""Books""",5,1,7,No,Yes,31-08-2015," ""Absolutely fantastic, loved it!""",positive
+53,"""US""","""2622337""","""R1GTIT546AA66Q""","""0876120109""","""288442730""","""Books""",1,0,0,No,Yes,31-08-2015," ""Waste of money. Really disappointing.""",negative
+54,"""US""","""28021429""","""R3QNRHOJI70J5X""","""B000KB9HD0""","""757036024""","""Books""",3,0,0,No,Yes,31-08-2015,"""It's okay, not great but not bad either.""",neutral
+55,"""US""","""397680""","""R2IY7O29B8BHWC""","""0385529651""","""910181158""","""Books""",5,0,0,No,Yes,31-08-2015," ""Absolutely fantastic, loved it!""",positive
+56,"""US""","""38723792""","""R3CGOEQ87AJ9F1""","""098467120X""","""484287349""","""Books""",5,0,0,No,Yes,31-08-2015," ""Absolutely fantastic, loved it!""",positive
+57,"""US""","""15361687""","""R2Y2BFAUR31624""","""0373677022""","""334434565""","""Books""",5,0,0,No,No,31-08-2015," ""Absolutely fantastic, loved it!""",positive
+58,"""US""","""51248269""","""R2SVKF64DEVDKO""","""0789496879""","""760019196""","""Books""",5,1,1,No,Yes,31-08-2015," ""Absolutely fantastic, loved it!""",positive
+59,"""US""","""42114621""","""R3CWIR7I4YIW4R""","""1605740012""","""689695652""","""Books""",4,0,0,No,Yes,31-08-2015," ""This product is amazing!""",positive
+60,"""US""","""37722141""","""RGO3UIU3OBEYZ""","""1516859146""","""984735675""","""Books""",5,0,0,No,Yes,31-08-2015," ""Absolutely fantastic, loved it!""",positive
+61,"""US""","""42101180""","""R2FUZZXRFMR5YC""","""0062510630""","""735635617""","""Books""",4,0,0,No,Yes,31-08-2015," ""This product is amazing!""",positive
+62,"""US""","""34668502""","""R19L0M7MUOOC49""","""1118531647""","""53094424""","""Books""",1,0,0,No,Yes,31-08-2015," ""Waste of money. Really disappointing.""",negative
+63,"""US""","""16172921""","""R18LI7TQUW1A9J""","""1423463013""","""445286870""","""Books""",5,0,0,No,Yes,31-08-2015," ""Absolutely fantastic, loved it!""",positive
+64,"""US""","""16922053""","""R29KQSR6Y3EBAV""","""0345472357""","""167034431""","""Books""",2,0,0,No,Yes,31-08-2015," ""Terrible experience, not recommended.""",negative
+65,"""US""","""33210188""","""RA8KFPS3SAHEJ""","""0062343971""","""300341305""","""Books""",5,3,5,No,No,31-08-2015," ""Absolutely fantastic, loved it!""",positive
+66,"""US""","""38851864""","""R3E7686UOSWVI7""","""0143039989""","""514925319""","""Books""",2,2,12,No,No,31-08-2015," ""Terrible experience, not recommended.""",negative
+67,"""US""","""16747249""","""R2TRQAQL0R9QJX""","""0300181051""","""441242249""","""Books""",3,0,14,No,Yes,31-08-2015,"""It's okay, not great but not bad either.""",neutral
+68,"""US""","""22686792""","""R195AO9QYAJR50""","""0692380817""","""636465999""","""Books""",4,0,0,No,No,31-08-2015," ""This product is amazing!""",positive
+69,"""US""","""33706531""","""R145MGMNF5YTNN""","""0578007304""","""290125099""","""Books""",5,0,0,No,No,31-08-2015," ""Absolutely fantastic, loved it!""",positive
+70,"""US""","""21999703""","""R80QKVVBQCEPW""","""0992551501""","""755773599""","""Books""",2,1,1,No,No,31-08-2015," ""Terrible experience, not recommended.""",negative
+71,"""US""","""28610595""","""RIZFZ2R3Y1ODK""","""0761149120""","""311714977""","""Books""",3,0,1,No,Yes,31-08-2015,"""It's okay, not great but not bad either.""",neutral
+72,"""US""","""50535170""","""R3L4F7K14HYS16""","""1462114113""","""819386723""","""Books""",5,0,0,No,No,31-08-2015," ""Absolutely fantastic, loved it!""",positive
+73,"""US""","""30329622""","""RMAXUR6KX8PZ5""","""1502395223""","""144360235""","""Books""",5,0,0,No,Yes,31-08-2015," ""Absolutely fantastic, loved it!""",positive
+74,"""US""","""41275350""","""R2T4SJM0EYKQPM""","""1463739311""","""957485016""","""Books""",4,0,0,No,Yes,31-08-2015," ""This product is amazing!""",positive
+75,"""US""","""15257619""","""R3566A4TGAUQ0E""","""0767908724""","""210498137""","""Books""",2,0,2,No,Yes,31-08-2015," ""Terrible experience, not recommended.""",negative
+76,"""US""","""130367""","""R1OFABGWPSCIRN""","""1465047212""","""498192951""","""Books""",1,1,1,No,Yes,31-08-2015," ""Waste of money. Really disappointing.""",negative
+77,"""US""","""6415497""","""R2Z0A0P9M0ZWP4""","""1515375609""","""2126413""","""Books""",3,0,0,No,No,31-08-2015,"""It's okay, not great but not bad either.""",neutral
+78,"""US""","""41137196""","""R2DIC1CCIYQWYG""","""1584690623""","""2603898""","""Books""",2,0,0,No,Yes,31-08-2015," ""Terrible experience, not recommended.""",negative
+79,"""US""","""2784618""","""R3SZJ6KP41EZ2V""","""014017737X""","""779170984""","""Books""",1,0,0,No,Yes,31-08-2015," ""Waste of money. Really disappointing.""",negative
+80,"""US""","""41137196""","""R3REF1TKBP5NR5""","""1557998167""","""202138506""","""Books""",2,0,0,No,Yes,31-08-2015," ""Terrible experience, not recommended.""",negative
+81,"""US""","""29957307""","""R1X16L5GEK5XG7""","""1943279926""","""268138047""","""Books""",1,1,1,No,No,31-08-2015," ""Waste of money. Really disappointing.""",negative
+82,"""US""","""41137196""","""R3M51HANH1A2UN""","""1608236358""","""498571367""","""Books""",4,0,0,No,Yes,31-08-2015," ""This product is amazing!""",positive
+83,"""US""","""12708284""","""R1N8B6IJ1F1W09""","""1451194374""","""757998783""","""Books""",4,5,5,No,No,31-08-2015," ""This product is amazing!""",positive
+84,"""US""","""27538086""","""R2QJ8B10JAZK0G""","""0894020218""","""228122993""","""Books""",5,0,0,No,Yes,31-08-2015," ""Absolutely fantastic, loved it!""",positive
+85,"""US""","""1088155""","""R2S1L3E4QI9XW8""","""1878087355""","""851100313""","""Books""",3,0,0,No,Yes,31-08-2015,"""It's okay, not great but not bad either.""",neutral
+86,"""US""","""1428558""","""R11HGM3D5YCTUJ""","""0991283201""","""419434626""","""Books""",2,0,0,No,No,31-08-2015," ""Terrible experience, not recommended.""",negative
+87,"""US""","""8959058""","""R2DN7XAKU0IUGN""","""1574219723""","""816645551""","""Books""",1,0,0,No,Yes,31-08-2015," ""Waste of money. Really disappointing.""",negative
+88,"""US""","""52961931""","""R75UBFX038TQF""","""1907056602""","""633107032""","""Books""",2,1,1,No,No,31-08-2015," ""Terrible experience, not recommended.""",negative
+89,"""US""","""38526522""","""RO1LRF7WXOVDE""","""080240992X""","""552532557""","""Books""",3,0,0,No,Yes,31-08-2015,"""It's okay, not great but not bad either.""",neutral
+90,"""US""","""17860812""","""R1B7LBKKU7CH9R""","""146542900X""","""290649147""","""Books""",3,0,0,No,Yes,31-08-2015,"""It's okay, not great but not bad either.""",neutral
+91,"""US""","""51975512""","""R2ZMUSEX9EPG9F""","""1426767501""","""596791336""","""Books""",4,2,2,No,Yes,31-08-2015," ""This product is amazing!""",positive
+92,"""US""","""2685332""","""R1E5K8TIEVFH69""","""1849055750""","""271955094""","""Books""",5,2,2,No,No,31-08-2015," ""Absolutely fantastic, loved it!""",positive
+93,"""US""","""16864175""","""R1H8C0KN57Z0P5""","""0762741201""","""6127673""","""Books""",3,0,0,No,Yes,31-08-2015,"""It's okay, not great but not bad either.""",neutral
+94,"""US""","""15514316""","""R2CLWEFVVP0JV3""","""0758287356""","""371905209""","""Books""",1,0,0,No,No,31-08-2015," ""Waste of money. Really disappointing.""",negative
+95,"""US""","""9373014""","""RVAXL2PDUOYF3""","""1781716498""","""307416668""","""Books""",2,0,0,No,Yes,31-08-2015," ""Terrible experience, not recommended.""",negative
+96,"""US""","""31654227""","""R2U47B96XHOLYN""","""0062091158""","""178935212""","""Books""",4,0,0,No,No,31-08-2015," ""This product is amazing!""",positive
+97,"""US""","""12103883""","""R2N3K8FK4UI2IO""","""1509203141""","""803771611""","""Books""",2,3,3,No,No,31-08-2015," ""Terrible experience, not recommended.""",negative
+98,"""US""","""45587944""","""R34OETSC748FNA""","""0689120079""","""133206690""","""Books""",5,0,0,No,Yes,31-08-2015," ""Absolutely fantastic, loved it!""",positive
+99,"""US""","""38753491""","""R3DP1CYB1M7V26""","""0990454665""","""865890307""","""Books""",3,1,1,No,Yes,31-08-2015,"""It's okay, not great but not bad either.""",neutral
+100,"""US""","""42521656""","""R26MV8D0KG6QI6""","""B000SAQCWC""","""159713740""","""Grocery""",5,0,0,No,Yes,31-08-2015," ""Absolutely fantastic, loved it!""",positive
+101,"""US""","""12049833""","""R1OF8GP57AQ1A0""","""B00509LVIQ""","""138680402""","""Grocery""",2,0,0,No,Yes,31-08-2015," ""Terrible experience, not recommended.""",negative
+102,"""US""","""107642""","""R3VDC1QB6MC4ZZ""","""B00KHXESLC""","""252021703""","""Grocery""",3,0,0,No,No,31-08-2015,"""It's okay, not great but not bad either.""",neutral
+103,"""US""","""6042304""","""R12FA3DCF8F9ER""","""B000F8JIIC""","""752728342""","""Grocery""",5,0,0,No,Yes,31-08-2015," ""Absolutely fantastic, loved it!""",positive
+104,"""US""","""18123821""","""RTWHVNV6X4CNJ""","""B004ZWR9RQ""","""552138758""","""Grocery""",5,0,0,No,Yes,31-08-2015," ""Absolutely fantastic, loved it!""",positive
+105,"""US""","""23649464""","""RIG9AWFOGRDVO""","""B00AL6QBZ6""","""681475449""","""Grocery""",1,1,1,No,Yes,31-08-2015," ""Waste of money. Really disappointing.""",negative
+106,"""US""","""32778285""","""R1S1XSG4ZCHDGS""","""B00BCNSTRA""","""578681693""","""Grocery""",3,1,1,No,Yes,31-08-2015,"""It's okay, not great but not bad either.""",neutral
+107,"""US""","""46612941""","""RB15NBVY5ELVW""","""B0089MM2BG""","""350968436""","""Grocery""",5,2,2,No,Yes,31-08-2015," ""Absolutely fantastic, loved it!""",positive
+108,"""US""","""31525399""","""R56358YM1ZJ7I""","""B00Y1C9770""","""729982780""","""Grocery""",5,0,0,No,No,31-08-2015," ""Absolutely fantastic, loved it!""",positive
+109,"""US""","""19624355""","""R1ODXB3C9UP3NL""","""B00J074W94""","""2499702""","""Grocery""",5,1,3,No,No,31-08-2015," ""Absolutely fantastic, loved it!""",positive
+110,"""US""","""31910375""","""R155ZMVLD5C9BP""","""B0001VKKOO""","""189938205""","""Grocery""",5,3,4,No,Yes,31-08-2015," ""Absolutely fantastic, loved it!""",positive
+111,"""US""","""12816533""","""R2IXW43PUNYM0G""","""B007TGH4CK""","""398128262""","""Grocery""",4,1,1,No,Yes,31-08-2015," ""This product is amazing!""",positive
+112,"""US""","""23208852""","""R3LYEG1QCK2BG0""","""B002HMN6SC""","""18057786""","""Grocery""",5,0,0,No,Yes,31-08-2015," ""Absolutely fantastic, loved it!""",positive
+113,"""US""","""17348415""","""R20LREICPM3YH0""","""B004NRHAZO""","""595020880""","""Grocery""",4,0,0,No,Yes,31-08-2015," ""This product is amazing!""",positive
+114,"""US""","""46763945""","""RHA5COCZDVB13""","""B00V7LJIG8""","""173088090""","""Grocery""",1,0,0,No,Yes,31-08-2015," ""Waste of money. Really disappointing.""",negative
+115,"""US""","""961747""","""RT9BGRQANMANE""","""B0000E2YFI""","""120269621""","""Grocery""",5,0,0,No,Yes,31-08-2015," ""Absolutely fantastic, loved it!""",positive
+116,"""US""","""16888081""","""ROD1TU5JCS7JQ""","""B00VK5SQOQ""","""204992966""","""Grocery""",2,0,0,No,No,31-08-2015," ""Terrible experience, not recommended.""",negative
+117,"""US""","""22765168""","""R3T6TTD2IN0EFZ""","""B00XDXMLL2""","""971154239""","""Grocery""",5,4,4,No,No,31-08-2015," ""Absolutely fantastic, loved it!""",positive
+118,"""US""","""36328996""","""R1OCUGZ444NKV3""","""B00MN4KX3A""","""787182505""","""Grocery""",2,5,5,No,Yes,31-08-2015," ""Terrible experience, not recommended.""",negative
+119,"""US""","""27092724""","""RCQQGWTC4J4TZ""","""B004NTCE1M""","""653570135""","""Grocery""",3,0,0,No,Yes,31-08-2015,"""It's okay, not great but not bad either.""",neutral
+120,"""US""","""49551226""","""R2Z0LF8EQK62VB""","""B004BGM3HC""","""608319289""","""Grocery""",4,0,0,No,Yes,31-08-2015," ""This product is amazing!""",positive
+121,"""US""","""32138061""","""R101OH1JM3L08F""","""B005QBAM6A""","""127889324""","""Grocery""",5,0,0,No,Yes,31-08-2015," ""Absolutely fantastic, loved it!""",positive
+122,"""US""","""161464""","""R3GPE0R3A5TG5H""","""B0050NTYXG""","""730115695""","""Grocery""",2,0,0,No,No,31-08-2015," ""Terrible experience, not recommended.""",negative
+123,"""US""","""35636887""","""R9MISLBRG08FX""","""B00DBSFXUA""","""294404974""","""Grocery""",3,0,0,No,Yes,31-08-2015,"""It's okay, not great but not bad either.""",neutral
+124,"""US""","""31098097""","""R1NEKLQXUMRU9J""","""B00BJ5FISE""","""607453108""","""Grocery""",5,0,0,No,Yes,31-08-2015," ""Absolutely fantastic, loved it!""",positive
+125,"""US""","""10013512""","""RJKKUAD4MQB1M""","""B004LUNVUG""","""312488344""","""Grocery""",5,0,0,No,Yes,31-08-2015," ""Absolutely fantastic, loved it!""",positive
+126,"""US""","""12650237""","""R2A9O8CWZ1PP74""","""B0083GJKR2""","""868929824""","""Grocery""",4,0,0,No,Yes,31-08-2015," ""This product is amazing!""",positive
+127,"""US""","""8586282""","""RLIVMLZE3ZLE""","""B00D0TASLO""","""265395849""","""Grocery""",2,5,7,No,Yes,31-08-2015," ""Terrible experience, not recommended.""",negative
+128,"""US""","""39901616""","""R30DAGYFGJVMO2""","""B004AMFDF6""","""142052235""","""Grocery""",1,0,0,No,Yes,31-08-2015," ""Waste of money. Really disappointing.""",negative
+129,"""US""","""4740206""","""R1K7BMTEFE7CEO""","""B0052M5V0A""","""743422904""","""Grocery""",3,0,0,No,Yes,31-08-2015,"""It's okay, not great but not bad either.""",neutral
+130,"""US""","""29871973""","""R27MXM1X1ODZ7K""","""B00507A02Q""","""755228942""","""Grocery""",2,2,2,No,No,31-08-2015," ""Terrible experience, not recommended.""",negative
+131,"""US""","""3333524""","""R6AXVQ16BJJO3""","""B00NTX6158""","""359101879""","""Grocery""",1,0,0,No,Yes,31-08-2015," ""Waste of money. Really disappointing.""",negative
+132,"""US""","""30380808""","""R3CSY2IRJBAXYI""","""B008B39N42""","""186110310""","""Grocery""",2,0,0,No,Yes,31-08-2015," ""Terrible experience, not recommended.""",negative
+133,"""US""","""107642""","""R16W56BC5HSU1O""","""B001V76MFS""","""992980857""","""Grocery""",1,0,0,No,No,31-08-2015," ""Waste of money. Really disappointing.""",negative
+134,"""US""","""49436222""","""RSTH6870U4OV0""","""B00C6817HY""","""951776824""","""Grocery""",4,1,1,No,Yes,31-08-2015," ""This product is amazing!""",positive
+135,"""US""","""25415089""","""R2AD3H93SVYULA""","""B008TSVXWE""","""153465382""","""Grocery""",4,0,0,No,Yes,31-08-2015," ""This product is amazing!""",positive
+136,"""US""","""15209907""","""R30SMG9BJDUXWE""","""B00EZDN406""","""142435880""","""Grocery""",5,1,1,No,Yes,31-08-2015," ""Absolutely fantastic, loved it!""",positive
+137,"""US""","""837246""","""R1IS7UW59ZELBB""","""B00FOLMDF0""","""280579593""","""Grocery""",3,0,1,No,Yes,31-08-2015,"""It's okay, not great but not bad either.""",neutral
+138,"""US""","""14246596""","""RQD4EOK9ROKL""","""B00Y216XZO""","""305408799""","""Grocery""",2,0,0,No,No,31-08-2015," ""Terrible experience, not recommended.""",negative
+139,"""US""","""40938712""","""R3T0LUMRV95I93""","""B000FOIYS6""","""166530157""","""Grocery""",1,0,0,No,No,31-08-2015," ""Waste of money. Really disappointing.""",negative
+140,"""US""","""29000177""","""R1DIYK2UJ1C7FC""","""B00A66TR8E""","""3209118""","""Grocery""",2,0,2,No,Yes,31-08-2015," ""Terrible experience, not recommended.""",negative
+141,"""US""","""8897431""","""R2I658I5I1TFHW""","""B00U828PZW""","""944349683""","""Grocery""",3,0,0,No,Yes,31-08-2015,"""It's okay, not great but not bad either.""",neutral
+142,"""US""","""51545349""","""RPORZKRD9PLP7""","""B004IJK6YO""","""81991479""","""Grocery""",3,0,0,No,Yes,31-08-2015,"""It's okay, not great but not bad either.""",neutral
+143,"""US""","""1158521""","""R2HLL86SJMCSQG""","""B000FS9MUQ""","""757850482""","""Grocery""",4,0,0,No,Yes,31-08-2015," ""This product is amazing!""",positive
+144,"""US""","""1416628""","""R3K98S1G8OIBZ4""","""B00VR4TQBM""","""781979812""","""Grocery""",5,3,4,No,No,31-08-2015," ""Absolutely fantastic, loved it!""",positive
+145,"""US""","""8019898""","""R174OVX7IYB61B""","""B00C81PMFC""","""605611665""","""Grocery""",3,0,0,No,Yes,31-08-2015,"""It's okay, not great but not bad either.""",neutral
+146,"""US""","""31115794""","""R3CG6PPJMZBD98""","""B001SAVJ4W""","""842142604""","""Grocery""",1,0,0,No,Yes,31-08-2015," ""Waste of money. Really disappointing.""",negative
+147,"""US""","""13386957""","""R2XBIA5LG2WW5M""","""B013F4NCQ6""","""289793319""","""Grocery""",2,1,1,No,Yes,31-08-2015," ""Terrible experience, not recommended.""",negative
+148,"""US""","""34288391""","""R1VQ23BJJ2XPKQ""","""B00E19WJ1E""","""17205619""","""Grocery""",5,0,0,No,Yes,31-08-2015," ""Absolutely fantastic, loved it!""",positive
+149,"""US""","""49354808""","""R3J23ZP07TKBIX""","""B00NE4AR2A""","""851801606""","""Grocery""",2,0,0,No,Yes,31-08-2015," ""Terrible experience, not recommended.""",negative
+150,"""US""","""12386924""","""R1Y91JHART410S""","""B00DPEK6MA""","""847837548""","""Grocery""",3,0,0,No,Yes,31-08-2015,"""It's okay, not great but not bad either.""",neutral
+151,"""US""","""42449391""","""R1NO4Y2EUF8SMW""","""B00269VK20""","""911233799""","""Grocery""",5,0,0,No,Yes,31-08-2015," ""Absolutely fantastic, loved it!""",positive
+152,"""US""","""42729038""","""RFHRWIAOMB23Q""","""B00F9WVMME""","""511501542""","""Grocery""",5,0,0,No,Yes,31-08-2015," ""Absolutely fantastic, loved it!""",positive
+153,"""US""","""51445040""","""R37AI4TQDF4963""","""B002ZOPTGY""","""428067417""","""Grocery""",1,0,0,No,Yes,31-08-2015," ""Waste of money. Really disappointing.""",negative
+154,"""US""","""43692735""","""R37DC12C9JK3SL""","""B00ADYXY7E""","""104506624""","""Grocery""",3,0,0,No,Yes,31-08-2015,"""It's okay, not great but not bad either.""",neutral
+155,"""US""","""11915964""","""R9RTPL7GV9QX""","""B00B8YXVUS""","""954742183""","""Grocery""",5,0,0,No,Yes,31-08-2015," ""Absolutely fantastic, loved it!""",positive
+156,"""US""","""27397668""","""R15MSHIILT7VUI""","""B00J9P80SQ""","""627833437""","""Grocery""",5,0,1,No,Yes,31-08-2015," ""Absolutely fantastic, loved it!""",positive
+157,"""US""","""5999054""","""R38R5425CS9QXQ""","""B005KG7EDU""","""784610612""","""Grocery""",5,1,1,No,Yes,31-08-2015," ""Absolutely fantastic, loved it!""",positive
+158,"""US""","""51834701""","""R296FQSRV4D4UX""","""B003L4BQ7S""","""149434989""","""Grocery""",5,1,1,No,Yes,31-08-2015," ""Absolutely fantastic, loved it!""",positive
+159,"""US""","""29447679""","""R1ZF7P6497XITN""","""B00AO7I15A""","""493497653""","""Grocery""",4,0,0,No,Yes,31-08-2015," ""This product is amazing!""",positive
+160,"""US""","""52646512""","""R3T1JWKO1X6EDL""","""B000F4GPC8""","""89439274""","""Grocery""",5,0,0,No,Yes,31-08-2015," ""Absolutely fantastic, loved it!""",positive
+161,"""US""","""48255002""","""R7KN3D8529COQ""","""B00509LVIQ""","""138680402""","""Grocery""",4,0,0,No,Yes,31-08-2015," ""This product is amazing!""",positive
+162,"""US""","""6301556""","""R2UK4484QJMYMR""","""B003SPM64C""","""546768141""","""Grocery""",1,0,1,No,Yes,31-08-2015," ""Waste of money. Really disappointing.""",negative
+163,"""US""","""2039038""","""R2XXK3RQ3BWC0Y""","""B00SF7L2IE""","""52645130""","""Grocery""",5,0,0,No,Yes,31-08-2015," ""Absolutely fantastic, loved it!""",positive
+164,"""US""","""10519195""","""R20QLT2NKU8DFR""","""B00Q541AQI""","""530616670""","""Grocery""",2,0,0,No,Yes,31-08-2015," ""Terrible experience, not recommended.""",negative
+165,"""US""","""13822691""","""RA5J5DXP2R9VC""","""B00CPZPYLS""","""187460012""","""Grocery""",5,0,0,No,Yes,31-08-2015," ""Absolutely fantastic, loved it!""",positive
+166,"""US""","""44277197""","""R3NLZMY4OXITC3""","""B005HUVI40""","""125604437""","""Grocery""",2,0,0,No,Yes,31-08-2015," ""Terrible experience, not recommended.""",negative
+167,"""US""","""14061108""","""R1JTM3NPXWKSC8""","""B00F288CNM""","""652749884""","""Grocery""",3,1,1,No,Yes,31-08-2015,"""It's okay, not great but not bad either.""",neutral
+168,"""US""","""106923""","""R21D0V837ECJJN""","""B0063K4BPG""","""712357467""","""Grocery""",4,2,2,No,No,31-08-2015," ""This product is amazing!""",positive
+169,"""US""","""10768580""","""R2MSNM96Z15B2C""","""B001E0YBM8""","""510006387""","""Grocery""",5,1,1,No,Yes,31-08-2015," ""Absolutely fantastic, loved it!""",positive
+170,"""US""","""51211698""","""R2VD2F43POYW4L""","""B004V3D2WK""","""615145750""","""Grocery""",2,0,0,No,Yes,31-08-2015," ""Terrible experience, not recommended.""",negative
+171,"""US""","""15002998""","""R1P5H0R3TB5YPG""","""B000NMFXHU""","""441374462""","""Grocery""",3,0,0,No,Yes,31-08-2015,"""It's okay, not great but not bad either.""",neutral
+172,"""US""","""50365169""","""R1E3473B9XQB78""","""B00N2ZPZ9Q""","""82083715""","""Grocery""",5,0,1,No,Yes,31-08-2015," ""Absolutely fantastic, loved it!""",positive
+173,"""US""","""50322533""","""R3JXJN32XTD9IE""","""B007TKX5I8""","""899642341""","""Grocery""",5,1,1,No,Yes,31-08-2015," ""Absolutely fantastic, loved it!""",positive
+174,"""US""","""13143623""","""R30WFF8GTYE8JR""","""B001EQ5ERI""","""509892875""","""Grocery""",4,0,0,No,No,31-08-2015," ""This product is amazing!""",positive
+175,"""US""","""19130250""","""R8OR0J0GGNRJE""","""B00JX9HFSY""","""535542865""","""Grocery""",2,0,0,No,No,31-08-2015," ""Terrible experience, not recommended.""",negative
+176,"""US""","""14978216""","""R19J8OHVAOUAK4""","""B0000GHNUO""","""839866577""","""Grocery""",1,0,0,No,Yes,31-08-2015," ""Waste of money. Really disappointing.""",negative
+177,"""US""","""20852026""","""R2H158VCJYYV8A""","""B001EYUE6G""","""857614263""","""Grocery""",3,0,0,No,Yes,31-08-2015,"""It's okay, not great but not bad either.""",neutral
+178,"""US""","""27204133""","""R1JJ3HOMO7DIQL""","""B00018RC2U""","""788947615""","""Grocery""",2,2,2,No,Yes,31-08-2015," ""Terrible experience, not recommended.""",negative
+179,"""US""","""34353037""","""R3DHEV7O9PPUBU""","""B008HYNUHG""","""981590087""","""Grocery""",1,1,1,No,Yes,31-08-2015," ""Waste of money. Really disappointing.""",negative
+180,"""US""","""34641686""","""RCXZP8XB5NQPS""","""B005MQKIXG""","""380189812""","""Grocery""",2,0,0,No,Yes,31-08-2015," ""Terrible experience, not recommended.""",negative
+181,"""US""","""22566902""","""R1JK5O3SUV75LC""","""B00Y1C9770""","""729982780""","""Grocery""",1,0,0,No,No,31-08-2015," ""Waste of money. Really disappointing.""",negative
+182,"""US""","""34868020""","""R33O0AYSVVIC9V""","""B00DY0B2X2""","""200727160""","""Grocery""",4,2,2,No,Yes,31-08-2015," ""This product is amazing!""",positive
+183,"""US""","""34815577""","""R1VSL8LLUH1JA1""","""B001EO6CPI""","""263912591""","""Grocery""",4,0,0,No,Yes,31-08-2015," ""This product is amazing!""",positive
+184,"""US""","""28947823""","""RW41A3H4LCU8M""","""B002CYIJUK""","""280667647""","""Grocery""",5,1,1,No,Yes,31-08-2015," ""Absolutely fantastic, loved it!""",positive
+185,"""US""","""20869030""","""R1INN2XSICWA57""","""B001ET5Y52""","""938480268""","""Grocery""",3,0,0,No,Yes,31-08-2015,"""It's okay, not great but not bad either.""",neutral
+186,"""US""","""11120418""","""R1J5781EPNBMNH""","""B0039556K2""","""762849292""","""Grocery""",2,0,0,No,Yes,31-08-2015," ""Terrible experience, not recommended.""",negative
+187,"""US""","""41775873""","""R3CKEJ3YTHR9EI""","""B00GISK49A""","""156138528""","""Grocery""",1,1,1,No,Yes,31-08-2015," ""Waste of money. Really disappointing.""",negative
+188,"""US""","""50010027""","""R3LZY45US4TW4V""","""B00BE1UI4M""","""966213327""","""Grocery""",2,0,0,No,Yes,31-08-2015," ""Terrible experience, not recommended.""",negative
+189,"""US""","""10984488""","""R2C143OU1RVWIE""","""B00NVMIQE6""","""237339990""","""Grocery""",3,1,1,No,Yes,31-08-2015,"""It's okay, not great but not bad either.""",neutral
+190,"""US""","""21352127""","""R22GD9SIFHF9TN""","""B00BVUBP4I""","""86866750""","""Grocery""",3,0,0,No,Yes,31-08-2015,"""It's okay, not great but not bad either.""",neutral
+191,"""US""","""44123034""","""R1J1MRGFY0N0IY""","""B008P2FSKC""","""287058930""","""Grocery""",4,0,0,No,Yes,31-08-2015," ""This product is amazing!""",positive
+192,"""US""","""21342451""","""R9CQ2MB8HVRJX""","""B0060RK7FK""","""357671832""","""Grocery""",5,0,0,No,Yes,31-08-2015," ""Absolutely fantastic, loved it!""",positive
+193,"""US""","""8105432""","""R3O5K94NWGX87F""","""B00KTIWIWQ""","""434097560""","""Grocery""",3,0,0,No,Yes,31-08-2015,"""It's okay, not great but not bad either.""",neutral
+194,"""US""","""36680582""","""R1EWUZ6HT6TQHD""","""B00W2ZGBNQ""","""23582653""","""Grocery""",1,1,1,No,Yes,31-08-2015," ""Waste of money. Really disappointing.""",negative
+195,"""US""","""41855640""","""R14RNK4F6OPVHI""","""B00MGDVYCM""","""527526119""","""Grocery""",2,0,0,No,Yes,31-08-2015," ""Terrible experience, not recommended.""",negative
+196,"""US""","""13730310""","""R29XUIKKYB1SVA""","""B00NESWWIS""","""807933739""","""Grocery""",4,2,3,No,No,31-08-2015," ""This product is amazing!""",positive
+197,"""US""","""48872127""","""R22YPES48XVR9Z""","""B00O8SQTIM""","""46432804""","""Grocery""",2,0,0,No,No,31-08-2015," ""Terrible experience, not recommended.""",negative
+198,"""US""","""12859252""","""RTL7D7ONFKQTO""","""B0064OLVFY""","""518513658""","""Grocery""",1,0,0,No,Yes,31-08-2015," ""Waste of money. Really disappointing.""",negative
+199,"""US""","""33828780""","""R2B9WKQP7ZZVPQ""","""B006ONNLNA""","""702537450""","""Grocery""",3,0,5,No,Yes,31-08-2015,"""It's okay, not great but not bad either.""",neutral
+200,"""US""","""22873041""","""R3ARRMDEGED8RD""","""B00KJWQIIC""","""335625766""","""PC""",5,0,0,No,Yes,01-09-2015," ""Absolutely fantastic, loved it!""",positive
+201,"""US""","""30088427""","""RQ28TSA020Y6J""","""B013ALA9LA""","""671157305""","""PC""",2,24,31,yes,"0 	(N)",02-09-2015," ""Terrible experience, not recommended.""",negative
+202,"""US""","""20329786""","""RUXJRZCT6953M""","""B00PML2GQ8""","""982036237""","""PC""",3,2,2,No,No,03-09-2015,"""It's okay, not great but not bad either.""",neutral
+203,"""US""","""14215710""","""R7EO0UO6BPB71""","""B001NS0OZ4""","""576587596""","""PC""",5,0,0,No,Yes,04-09-2015," ""Absolutely fantastic, loved it!""",positive
+204,"""US""","""38264512""","""R39NJY2YJ1JFSV""","""B00AQMTND2""","""964759214""","""PC""",5,0,0,No,Yes,05-09-2015," ""Absolutely fantastic, loved it!""",positive
+205,"""US""","""30548466""","""R31SR7REWNX7CF""","""B00KX4TORI""","""170101802""","""PC""",1,0,0,No,Yes,06-09-2015," ""Waste of money. Really disappointing.""",negative
+206,"""US""","""589298""","""RVBP8I1R0CTZ8""","""B00P17WEMY""","""206124740""","""PC""",3,1,2,No,Yes,07-09-2015,"""It's okay, not great but not bad either.""",neutral
+207,"""US""","""49329488""","""R1QF6RS1PDLU18""","""B00TR05L9Y""","""778403103""","""PC""",5,1,1,No,Yes,08-09-2015," ""Absolutely fantastic, loved it!""",positive
+208,"""US""","""50728290""","""R23AICGEDAJQL1""","""B0098Y77OG""","""177098042""","""PC""",5,0,0,No,Yes,09-09-2015," ""Absolutely fantastic, loved it!""",positive
+209,"""US""","""37802374""","""R2EY3N4K9W19UP""","""B00IFYEYXC""","""602496520""","""PC""",5,3,4,No,Yes,10-09-2015," ""Absolutely fantastic, loved it!""",positive
+210,"""US""","""52027882""","""RC9AW4HKJ016M""","""B0091ITP0S""","""977217357""","""PC""",5,0,0,No,Yes,11-09-2015," ""Absolutely fantastic, loved it!""",positive
+211,"""US""","""41770239""","""R2ALWJE9N6ZBXD""","""B008I21EA2""","""295632907""","""PC""",4,0,0,No,No,12-09-2015," ""This product is amazing!""",positive
+212,"""US""","""42560427""","""R2G5FPA4OX37GV""","""B00MRB7SBO""","""922591915""","""PC""",5,1,1,No,Yes,13-09-2015," ""Absolutely fantastic, loved it!""",positive
+213,"""US""","""46345923""","""R1IKTSEVXSIMOD""","""B00LLER2CS""","""997551273""","""PC""",4,0,0,No,Yes,14-09-2015," ""This product is amazing!""",positive
+214,"""US""","""41751192""","""R2YA6G6SRFEWF6""","""B00B0CQCCC""","""937999925""","""PC""",1,0,1,No,Yes,15-09-2015," ""Waste of money. Really disappointing.""",negative
+215,"""US""","""21176481""","""RS9H1N9I3Z1IA""","""B00GU8W5AE""","""13865167""","""PC""",5,0,0,No,Yes,16-09-2015," ""Absolutely fantastic, loved it!""",positive
+216,"""US""","""10674058""","""RKKLBI76VTDNT""","""B00XHMXJQ0""","""967483469""","""PC""",2,0,0,No,Yes,17-09-2015," ""Terrible experience, not recommended.""",negative
+217,"""US""","""43341796""","""R2NJ3WFUS4E5G6""","""B00YGJJQ6U""","""986548413""","""PC""",5,0,0,No,Yes,18-09-2015," ""Absolutely fantastic, loved it!""",positive
+218,"""US""","""13232866""","""R21PTQNLGCBN0I""","""B00XMN20Y6""","""873354048""","""PC""",2,0,0,No,Yes,19-09-2015," ""Terrible experience, not recommended.""",negative
+219,"""US""","""29333557""","""R3G4RT3EQ9RSY7""","""B00MA40W9I""","""535866197""","""PC""",3,0,0,No,Yes,20-09-2015,"""It's okay, not great but not bad either.""",neutral
+220,"""US""","""394771""","""RDVE5MHPKF0R8""","""B00NQ9X78Y""","""290709970""","""PC""",4,0,0,No,Yes,21-09-2015," ""This product is amazing!""",positive
+221,"""US""","""16160990""","""RW9VR7UKL3E69""","""B00HPQ0H0K""","""176437370""","""PC""",5,0,0,No,Yes,22-09-2015," ""Absolutely fantastic, loved it!""",positive
+222,"""US""","""40762662""","""R65UQSAULGB5""","""B00LCJ4HUW""","""331269443""","""PC""",2,0,0,No,Yes,23-09-2015," ""Terrible experience, not recommended.""",negative
+223,"""US""","""47990468""","""R4DGUM9WZ1Z4O""","""B00M7T8T1E""","""863844723""","""PC""",3,0,0,No,Yes,24-09-2015,"""It's okay, not great but not bad either.""",neutral
+224,"""US""","""12246861""","""R2WV71J88ERO3H""","""B00J082KFQ""","""55148922""","""PC""",5,0,0,No,Yes,25-09-2015," ""Absolutely fantastic, loved it!""",positive
+225,"""US""","""1310044""","""RHDN59P1ELIBY""","""B00HZR4FCA""","""74459118""","""PC""",5,0,0,No,Yes,26-09-2015," ""Absolutely fantastic, loved it!""",positive
+226,"""US""","""13689327""","""R3BN24DMDZQMAD""","""B00UKPW39G""","""261956142""","""PC""",4,0,0,No,Yes,27-09-2015," ""This product is amazing!""",positive
+227,"""US""","""24755112""","""R287ZTFXITCMGN""","""B007JRB0SS""","""677176816""","""PC""",2,0,0,No,Yes,28-09-2015," ""Terrible experience, not recommended.""",negative
+228,"""US""","""34685412""","""R1LTMCKOL72U34""","""9875961809""","""982116513""","""PC""",1,0,0,No,Yes,29-09-2015," ""Waste of money. Really disappointing.""",negative
+229,"""US""","""49371791""","""R1H35XHLODFTOX""","""B00IRV2DL8""","""556122164""","""PC""",3,0,0,No,Yes,30-09-2015,"""It's okay, not great but not bad either.""",neutral
+230,"""US""","""19589072""","""R1495HVMW7K83C""","""B00APJCKWM""","""468399384""","""PC""",2,0,0,No,Yes,01-10-2015," ""Terrible experience, not recommended.""",negative
+231,"""US""","""17789217""","""R3FYOAG9U8S9RG""","""B00J8E90I2""","""530680774""","""PC""",1,0,0,No,Yes,02-10-2015," ""Waste of money. Really disappointing.""",negative
+232,"""US""","""21391478""","""R190OP5OGXOF2A""","""B00GHBBK82""","""938451405""","""PC""",2,0,0,No,Yes,03-10-2015," ""Terrible experience, not recommended.""",negative
+233,"""US""","""12680846""","""R2AG4YGHD0IB1C""","""B00CC47VAO""","""170539622""","""PC""",1,0,0,No,Yes,04-10-2015," ""Waste of money. Really disappointing.""",negative
+234,"""US""","""48351806""","""R2RATALMIFYU7H""","""B00XPUU0XO""","""258619462""","""PC""",4,0,0,No,No,05-10-2015," ""This product is amazing!""",positive
+235,"""US""","""5805940""","""R1VPZW5K4IONOB""","""B001196H3S""","""3109240""","""PC""",4,0,0,No,Yes,06-10-2015," ""This product is amazing!""",positive
+236,"""US""","""6348379""","""R1B0GR7BIW6ZFM""","""B00SB4AHJG""","""868501171""","""PC""",5,0,1,No,Yes,07-10-2015," ""Absolutely fantastic, loved it!""",positive
+237,"""US""","""14978645""","""R1KRX2YJ0QFYH6""","""B00QJL5HMU""","""357058634""","""PC""",3,0,0,No,Yes,08-10-2015,"""It's okay, not great but not bad either.""",neutral
+238,"""US""","""32350947""","""R2ZPEE94C3GPJG""","""B00OMSWGI0""","""123457801""","""PC""",2,0,0,No,Yes,09-10-2015," ""Terrible experience, not recommended.""",negative
+239,"""US""","""11129655""","""R2SU1ROO1DW4FX""","""B00DW374W4""","""47129650""","""PC""",1,0,0,No,Yes,10-10-2015," ""Waste of money. Really disappointing.""",negative
+240,"""US""","""23531656""","""R1DG8L9CSXXPJK""","""B008IFXQFU""","""422480840""","""PC""",2,0,0,No,Yes,11-10-2015," ""Terrible experience, not recommended.""",negative
+241,"""US""","""11609295""","""R2LEATLCI1FNP1""","""B00JDVRCI0""","""108587939""","""PC""",3,0,0,No,Yes,12-10-2015,"""It's okay, not great but not bad either.""",neutral
+242,"""US""","""46829704""","""R2MYEOZLD69QJO""","""B00J0N0Y18""","""22444185""","""PC""",3,0,0,No,Yes,13-10-2015,"""It's okay, not great but not bad either.""",neutral
+243,"""US""","""31894642""","""RIQI58OREQUE7""","""B00JA6ZQ04""","""947356538""","""PC""",4,0,1,No,Yes,14-10-2015," ""This product is amazing!""",positive
+244,"""US""","""16618689""","""R1ECKH32H06IUU""","""B004T299RU""","""371850822""","""PC""",5,0,0,No,Yes,15-10-2015," ""Absolutely fantastic, loved it!""",positive
+245,"""US""","""2701611""","""R3SQFM4D091HWE""","""B004EBG4J2""","""582958308""","""PC""",3,0,0,No,Yes,16-10-2015,"""It's okay, not great but not bad either.""",neutral
+246,"""US""","""28827675""","""R1PHDY2F126NRD""","""B00MB80WE8""","""763447327""","""PC""",1,0,0,No,Yes,17-10-2015," ""Waste of money. Really disappointing.""",negative
+247,"""US""","""47012791""","""R3ILJ0GC2105AV""","""B00KT1HL5M""","""979894134""","""PC""",2,0,0,No,Yes,18-10-2015," ""Terrible experience, not recommended.""",negative
+248,"""US""","""18382586""","""RM7WHMA7RL279""","""B00B0N29G4""","""243601768""","""PC""",5,0,0,No,Yes,19-10-2015," ""Absolutely fantastic, loved it!""",positive
+249,"""US""","""29604302""","""R990NXDP7C936""","""B009L93Q34""","""863748379""","""PC""",2,0,1,No,Yes,20-10-2015," ""Terrible experience, not recommended.""",negative
+250,"""US""","""121609""","""R9GYKTMBT2LLT""","""B003NR57BY""","""617352447""","""PC""",3,0,0,No,No,21-10-2015,"""It's okay, not great but not bad either.""",neutral
+251,"""US""","""2458704""","""R1FGUS6XWRK1EY""","""B00G3LM8T6""","""845373178""","""PC""",5,0,0,No,Yes,22-10-2015," ""Absolutely fantastic, loved it!""",positive
+252,"""US""","""41783537""","""R1WFW1V4MYKNZC""","""B00K8GZED4""","""82850235""","""PC""",5,0,0,No,Yes,23-10-2015," ""Absolutely fantastic, loved it!""",positive
+253,"""US""","""38147176""","""R3L0QLMOLW2GN6""","""B0091L3NS0""","""83834149""","""PC""",1,1,1,No,Yes,24-10-2015," ""Waste of money. Really disappointing.""",negative
+254,"""US""","""51040665""","""REPEJL7JZYDPB""","""B00KT7DOSE""","""136056530""","""PC""",3,0,0,No,Yes,25-10-2015,"""It's okay, not great but not bad either.""",neutral
+255,"""US""","""48701722""","""R7ER63LS7Q1O5""","""B00RXEWOAA""","""540891596""","""PC""",5,0,0,No,Yes,26-10-2015," ""Absolutely fantastic, loved it!""",positive
+256,"""US""","""148662""","""R225Y10RRDV5H5""","""B00X3Z4KXW""","""510110347""","""PC""",5,0,3,No,Yes,27-10-2015," ""Absolutely fantastic, loved it!""",positive
+257,"""US""","""37018693""","""R2QEQK2UHCZSFZ""","""B01065S79E""","""268745989""","""PC""",5,2,2,yes,"0 	(N)",28-10-2015," ""Absolutely fantastic, loved it!""",positive
+258,"""US""","""44244534""","""R35DVC7RZ8BLA0""","""B00B6KXKKA""","""584211335""","""PC""",5,0,0,No,Yes,29-10-2015," ""Absolutely fantastic, loved it!""",positive
+259,"""US""","""20961846""","""R1F854X0L51448""","""B00ZWUEN10""","""684076400""","""PC""",4,0,0,No,Yes,30-10-2015," ""This product is amazing!""",positive
+260,"""US""","""6241527""","""R3VJD0CKJ1OI4F""","""B003HHK58U""","""188909702""","""PC""",5,0,0,No,Yes,31-10-2015," ""Absolutely fantastic, loved it!""",positive
+261,"""US""","""45003190""","""R1II85ETIHO6VK""","""B001MNTVNQ""","""178273423""","""PC""",4,1,1,No,Yes,01-11-2015," ""This product is amazing!""",positive
+262,"""US""","""2359062""","""R3LY922RKQEH72""","""B008QS7Z2Y""","""59900595""","""PC""",1,1,1,No,Yes,02-11-2015," ""Waste of money. Really disappointing.""",negative
+263,"""US""","""52929769""","""R37IANVKK3ZZUU""","""B004VDR37K""","""116577070""","""PC""",5,0,0,No,No,03-11-2015," ""Absolutely fantastic, loved it!""",positive
+264,"""US""","""45421873""","""R3Q8L27DJ77DGL""","""B00KV9R3FA""","""844121897""","""PC""",2,0,0,No,Yes,04-11-2015," ""Terrible experience, not recommended.""",negative
+265,"""US""","""19280847""","""RAYGOWHX4H47""","""B001J226JQ""","""210607495""","""PC""",5,0,0,No,Yes,05-11-2015," ""Absolutely fantastic, loved it!""",positive
+266,"""US""","""24454438""","""R3VIKSIT708SMI""","""B00FGI3CBU""","""279475761""","""PC""",2,0,0,No,Yes,06-11-2015," ""Terrible experience, not recommended.""",negative
+267,"""US""","""491750""","""R1R2XGJQRCM3R9""","""B00PYVBGEO""","""781923386""","""PC""",3,0,1,No,Yes,07-11-2015,"""It's okay, not great but not bad either.""",neutral
+268,"""US""","""38953775""","""R16E0GPRBWUMX""","""B00KDRQEYQ""","""479473290""","""PC""",4,0,0,No,Yes,08-11-2015," ""This product is amazing!""",positive
+269,"""US""","""48881148""","""R1F74AJQ55TVFG""","""B005EIGUD4""","""60016101""","""PC""",5,0,0,No,Yes,09-11-2015," ""Absolutely fantastic, loved it!""",positive
+270,"""US""","""18659741""","""R5RDOEHUT8YFY""","""B008POIBCM""","""71378727""","""PC""",2,0,0,No,Yes,10-11-2015," ""Terrible experience, not recommended.""",negative
+271,"""US""","""44080268""","""R2RUAQ0M6MA30T""","""B005WUUFBW""","""708772551""","""PC""",3,0,0,No,Yes,11-11-2015,"""It's okay, not great but not bad either.""",neutral
+272,"""US""","""24762271""","""R2T3D9S8RDSSPZ""","""B00762YNMG""","""128033544""","""PC""",5,0,0,No,Yes,12-11-2015," ""Absolutely fantastic, loved it!""",positive
+273,"""US""","""45973708""","""RA96EYNTG0TVH""","""B00H6YV44O""","""759421531""","""PC""",5,0,0,No,Yes,13-11-2015," ""Absolutely fantastic, loved it!""",positive
+274,"""US""","""17132043""","""R74UR42LRX4CT""","""B00TKLH0VC""","""735679692""","""PC""",4,0,0,No,Yes,14-11-2015," ""This product is amazing!""",positive
+275,"""US""","""35237777""","""R36QB084FK8JP5""","""B003MVZ60S""","""26704042""","""PC""",2,1,1,No,Yes,15-11-2015," ""Terrible experience, not recommended.""",negative
+276,"""US""","""25299181""","""R38YHPDUNBRC03""","""B00CEFEZBE""","""866771171""","""PC""",1,0,0,No,Yes,16-11-2015," ""Waste of money. Really disappointing.""",negative
+277,"""US""","""42813748""","""R20T2PX6DXVYB""","""B005C31GIA""","""72956803""","""PC""",3,0,0,No,Yes,17-11-2015,"""It's okay, not great but not bad either.""",neutral
+278,"""US""","""4601519""","""R1VCJHYX83CPRO""","""B00U6DP6A0""","""139581258""","""PC""",2,0,0,No,Yes,18-11-2015," ""Terrible experience, not recommended.""",negative
+279,"""US""","""24268096""","""R33GKKCXZ2WWH""","""B00GWHRD82""","""659187596""","""PC""",1,0,0,No,Yes,19-11-2015," ""Waste of money. Really disappointing.""",negative
+280,"""US""","""15370970""","""R1DV2UXC6I18PY""","""B00WDYQ7YY""","""535876328""","""PC""",2,1,1,No,Yes,20-11-2015," ""Terrible experience, not recommended.""",negative
+281,"""US""","""10045830""","""R9ACRH3UKFJ2M""","""B00IVPU7AO""","""90844071""","""PC""",1,0,0,No,Yes,21-11-2015," ""Waste of money. Really disappointing.""",negative
+282,"""US""","""45650534""","""R19G9Q4KXGMYM7""","""B00FXLIF7Q""","""841396428""","""PC""",4,0,0,No,Yes,22-11-2015," ""This product is amazing!""",positive
+283,"""US""","""28806697""","""R1NURIG1W4AKUK""","""B00O3MI9ZE""","""36360261""","""PC""",4,0,0,No,Yes,23-11-2015," ""This product is amazing!""",positive
+284,"""US""","""51179451""","""R2CMRTS4FC7NND""","""B00A1ZTZOG""","""726891101""","""PC""",5,0,0,No,Yes,24-11-2015," ""Absolutely fantastic, loved it!""",positive
+285,"""US""","""29211324""","""R1JKWCEC8NNFZG""","""B00TIJMF02""","""433424763""","""PC""",3,0,0,No,Yes,25-11-2015,"""It's okay, not great but not bad either.""",neutral
+286,"""US""","""37714229""","""R2O88139WBHAWJ""","""B00KGV2HKE""","""821192091""","""PC""",2,0,0,No,Yes,26-11-2015," ""Terrible experience, not recommended.""",negative
+287,"""US""","""43857093""","""R2Y4MG1YLNJCV7""","""B01082HUI4""","""768162224""","""PC""",1,0,1,No,Yes,27-11-2015," ""Waste of money. Really disappointing.""",negative
+288,"""US""","""38225540""","""R35E8KO046BGE3""","""B00HQODASC""","""223399108""","""PC""",2,1,1,No,Yes,28-11-2015," ""Terrible experience, not recommended.""",negative
+289,"""US""","""42085006""","""RC4H7MT6Z899W""","""B00KPHXJ7O""","""288302192""","""PC""",3,0,0,No,Yes,29-11-2015,"""It's okay, not great but not bad either.""",neutral
+290,"""US""","""17595803""","""R1NV4ZPOLR8J9N""","""B00C9TEL46""","""455838029""","""PC""",3,1,1,No,Yes,30-11-2015,"""It's okay, not great but not bad either.""",neutral
+291,"""US""","""51622441""","""R1IRZI951LUFP9""","""B0111MRL4S""","""698991103""","""PC""",4,1,2,No,No,01-12-2015," ""This product is amazing!""",positive
+292,"""US""","""11573173""","""R371G71ZV56NQQ""","""B0030FMQ90""","""56847897""","""PC""",5,0,0,No,Yes,02-12-2015," ""Absolutely fantastic, loved it!""",positive
+293,"""US""","""37293106""","""R5YEF148GAVRP""","""B00H9BEC8E""","""324717476""","""PC""",3,0,0,No,Yes,03-12-2015,"""It's okay, not great but not bad either.""",neutral
+294,"""US""","""9918269""","""R1XHCJXLSAS61I""","""B00CE58ZYC""","""829179526""","""PC""",1,0,0,No,Yes,04-12-2015," ""Waste of money. Really disappointing.""",negative
+295,"""US""","""15553382""","""R12HS6NXPUZMJR""","""B001AR6MI6""","""31174579""","""PC""",2,3,4,No,Yes,05-12-2015," ""Terrible experience, not recommended.""",negative
+296,"""US""","""466731""","""R2I3UB5QK1RDIR""","""B005O6Z028""","""838770124""","""PC""",4,0,0,No,Yes,06-12-2015," ""This product is amazing!""",positive
+297,"""US""","""24439106""","""R2SB4XQBVNYZ0M""","""B00HK5IQ6S""","""512172051""","""PC""",2,0,0,No,Yes,07-12-2015," ""Terrible experience, not recommended.""",negative
+298,"""US""","""11490310""","""R2YB7JO9L5H8AP""","""B00SGNZM88""","""867561596""","""PC""",5,2,2,No,Yes,08-12-2015," ""Absolutely fantastic, loved it!""",positive
+299,"""US""","""29690412""","""R3M577O1P8NBEJ""","""B00I80STNO""","""284695615""","""PC""",3,0,0,No,Yes,09-12-2015,"""It's okay, not great but not bad either.""",neutral
+300,"""US""","""50423057""","""R135Q3VZ4DQN5N""","""B00JWXFDMG""","""657335467""","""Jewelry""",5,0,0,No,Yes,10-12-2015," ""Absolutely fantastic, loved it!""",positive
+301,"""US""","""11262325""","""R2N0QQ6R4T7YRY""","""B00W5T1H9W""","""26030170""","""Jewelry""",2,0,0,No,No,11-12-2015," ""Terrible experience, not recommended.""",negative
+302,"""US""","""27541121""","""R3N5JE5Y4T6W5M""","""B00M2L6KFY""","""697845240""","""Jewelry""",3,0,0,No,Yes,12-12-2015,"""It's okay, not great but not bad either.""",neutral
+303,"""US""","""5350721""","""R2I150CX5IVY9Q""","""B0006SW2WU""","""569859289""","""Jewelry""",5,0,0,No,Yes,13-12-2015," ""Absolutely fantastic, loved it!""",positive
+304,"""US""","""24484424""","""R1RM9ICOOA9MQ3""","""B009YPDW70""","""332947422""","""Jewelry""",5,0,0,No,Yes,14-12-2015," ""Absolutely fantastic, loved it!""",positive
+305,"""US""","""457767""","""R2J2KMDL10UMSH""","""B00QGA8XZM""","""424804582""","""Jewelry""",1,0,0,No,Yes,15-12-2015," ""Waste of money. Really disappointing.""",negative
+306,"""US""","""31009358""","""R3R9ZUFA4TB4FQ""","""B00L0N0E8E""","""589441783""","""Jewelry""",3,0,0,No,Yes,16-12-2015,"""It's okay, not great but not bad either.""",neutral
+307,"""US""","""7034628""","""R3UQ8VAQN7R6WL""","""B00DMWQKWA""","""517428445""","""Jewelry""",5,0,0,No,Yes,17-12-2015," ""Absolutely fantastic, loved it!""",positive
+308,"""US""","""34608636""","""R1FXZ69C01JNQM""","""B00THLHAGA""","""320313750""","""Jewelry""",5,0,0,No,Yes,18-12-2015," ""Absolutely fantastic, loved it!""",positive
+309,"""US""","""44972687""","""RY36LB4OW0FFS""","""B00UXSEOHY""","""589365488""","""Jewelry""",5,0,0,No,Yes,19-12-2015," ""Absolutely fantastic, loved it!""",positive
+310,"""US""","""16684508""","""R6PKS54PC6ZY2""","""B00XGRYGVS""","""217045013""","""Jewelry""",5,4,4,No,Yes,20-12-2015," ""Absolutely fantastic, loved it!""",positive
+311,"""US""","""23493178""","""R1LYSAH0IECVWB""","""B00AJ2VU8A""","""972853757""","""Jewelry""",4,0,0,No,Yes,21-12-2015," ""This product is amazing!""",positive
+312,"""US""","""108294""","""R1UN0IZI3XQ3E2""","""B00LE5Y100""","""979375701""","""Jewelry""",5,2,3,No,Yes,22-12-2015," ""Absolutely fantastic, loved it!""",positive
+313,"""US""","""25810742""","""RIKDXD8QGL99S""","""B013E0AOH6""","""619592796""","""Jewelry""",4,1,1,No,Yes,23-12-2015," ""This product is amazing!""",positive
+314,"""US""","""12037665""","""RUZCQTXZVGUFH""","""B00XAWUP96""","""783863439""","""Jewelry""",1,1,1,No,Yes,24-12-2015," ""Waste of money. Really disappointing.""",negative
+315,"""US""","""51793466""","""R35CD4IHO3RP9H""","""B00WD82F1O""","""655270378""","""Jewelry""",5,1,1,No,Yes,25-12-2015," ""Absolutely fantastic, loved it!""",positive
+316,"""US""","""127508""","""R13YD66XC9221U""","""B00JP4XCSO""","""592155747""","""Jewelry""",2,0,0,No,No,26-12-2015," ""Terrible experience, not recommended.""",negative
+317,"""US""","""38430946""","""RHWG4JRVDSEYY""","""B00PZSM384""","""622179716""","""Jewelry""",5,1,1,No,Yes,27-12-2015," ""Absolutely fantastic, loved it!""",positive
+318,"""US""","""33684654""","""R3SPIKMJ5IWHX8""","""B00VLMW18K""","""36759824""","""Jewelry""",2,0,0,No,Yes,28-12-2015," ""Terrible experience, not recommended.""",negative
+319,"""US""","""5068631""","""RS19ACU7KWWNE""","""B00U5LDBB4""","""575109200""","""Jewelry""",3,1,1,No,Yes,29-12-2015,"""It's okay, not great but not bad either.""",neutral
+320,"""US""","""46667015""","""R21HUZ3R50MKXY""","""B00T24K90Q""","""481854518""","""Jewelry""",4,5,5,No,Yes,30-12-2015," ""This product is amazing!""",positive
+321,"""US""","""1468500""","""R3UQLKNZBCOR4I""","""B0064MB44E""","""145889292""","""Jewelry""",5,0,0,No,Yes,31-12-2015," ""Absolutely fantastic, loved it!""",positive
+322,"""US""","""16265495""","""R36X25ZXK35N6W""","""B010EJPWX6""","""533636982""","""Jewelry""",2,0,0,No,Yes,01-01-2016," ""Terrible experience, not recommended.""",negative
+323,"""US""","""10646870""","""R3UDCSQC5TYGCK""","""B00GUGNOME""","""519716014""","""Jewelry""",3,0,0,No,Yes,02-01-2016,"""It's okay, not great but not bad either.""",neutral
+324,"""US""","""44605318""","""RTUQXYUZKPT13""","""B00DAGEL7E""","""895537163""","""Jewelry""",5,0,0,No,Yes,03-01-2016," ""Absolutely fantastic, loved it!""",positive
+325,"""US""","""32524231""","""RH5ML4EQN0SL0""","""B00MV4J6US""","""456364595""","""Jewelry""",5,0,0,No,Yes,04-01-2016," ""Absolutely fantastic, loved it!""",positive
+326,"""US""","""12555975""","""R1OUPUVBG3ODUL""","""B00X12S0ZQ""","""823109748""","""Jewelry""",4,0,0,No,Yes,05-01-2016," ""This product is amazing!""",positive
+327,"""US""","""42202962""","""R3B6JZYIYF5ZNF""","""B00L2I544G""","""111535542""","""Jewelry""",2,0,0,No,Yes,06-01-2016," ""Terrible experience, not recommended.""",negative
+328,"""US""","""843326""","""R18J21ESU0VJZU""","""B00U8F8VGC""","""82413622""","""Jewelry""",1,0,0,No,Yes,07-01-2016," ""Waste of money. Really disappointing.""",negative
+329,"""US""","""4901333""","""R69A7MHQAJK9W""","""B00WH5FMW2""","""399874211""","""Jewelry""",3,0,0,No,Yes,08-01-2016,"""It's okay, not great but not bad either.""",neutral
+330,"""US""","""31170340""","""R9116IYGYMP73""","""B00F427HSM""","""417771809""","""Jewelry""",2,0,0,No,Yes,09-01-2016," ""Terrible experience, not recommended.""",negative
+331,"""US""","""43536220""","""RBGK3XGSUAVQQ""","""B004XJDW2W""","""193271009""","""Jewelry""",1,0,0,No,Yes,10-01-2016," ""Waste of money. Really disappointing.""",negative
+332,"""US""","""116982""","""R7B6VOHA82LDW""","""B005QL7IOY""","""72729315""","""Jewelry""",2,0,0,No,Yes,11-01-2016," ""Terrible experience, not recommended.""",negative
+333,"""US""","""40689064""","""RN95Y02OEYWEM""","""B00EE3UOSW""","""767274256""","""Jewelry""",1,0,0,No,Yes,12-01-2016," ""Waste of money. Really disappointing.""",negative
+334,"""US""","""38675214""","""R2A29ZKEZIKWKL""","""B002GZRRGC""","""340879951""","""Jewelry""",4,0,0,No,Yes,13-01-2016," ""This product is amazing!""",positive
+335,"""US""","""19402709""","""RBQY3JZ4I9YFU""","""B00TV315E2""","""205308648""","""Jewelry""",4,0,0,No,Yes,14-01-2016," ""This product is amazing!""",positive
+336,"""US""","""33095631""","""R2YOQ0W2SNWG3H""","""B005T3ITD8""","""891114855""","""Jewelry""",5,0,0,No,Yes,15-01-2016," ""Absolutely fantastic, loved it!""",positive
+337,"""US""","""122552""","""RQBGO394H6POG""","""B010BZ6H14""","""638390748""","""Jewelry""",3,2,2,No,Yes,16-01-2016,"""It's okay, not great but not bad either.""",neutral
+338,"""US""","""111384""","""R3G5O9YBBD03X8""","""B000NXGR9M""","""854266499""","""Jewelry""",2,0,0,No,Yes,17-01-2016," ""Terrible experience, not recommended.""",negative
+339,"""US""","""46789906""","""R2EH1B0UWF6MBO""","""B00KQ4FEQ0""","""723583571""","""Jewelry""",1,1,1,No,Yes,18-01-2016," ""Waste of money. Really disappointing.""",negative
+340,"""US""","""30978102""","""RDXED12684VRO""","""B00449ZF4O""","""84121669""","""Jewelry""",2,1,1,No,Yes,19-01-2016," ""Terrible experience, not recommended.""",negative
+341,"""US""","""6756291""","""R364LH3X2IJW2R""","""B00B33W7FE""","""921425620""","""Jewelry""",3,0,0,No,Yes,20-01-2016,"""It's okay, not great but not bad either.""",neutral
+342,"""US""","""11368983""","""R20YTM2J97GGR4""","""B00S5HHKBW""","""580282815""","""Jewelry""",3,0,0,No,Yes,21-01-2016,"""It's okay, not great but not bad either.""",neutral
+343,"""US""","""34395929""","""RQRAEY45P5TTB""","""B007CM0YVO""","""782503779""","""Jewelry""",4,1,2,No,Yes,22-01-2016," ""This product is amazing!""",positive
+344,"""US""","""10031108""","""R13YJC4AM9KICP""","""B00GU82FQS""","""764978574""","""Jewelry""",5,0,0,No,Yes,23-01-2016," ""Absolutely fantastic, loved it!""",positive
+345,"""US""","""19993978""","""R24HV5SINGBXB1""","""B003O69NZ0""","""777698934""","""Jewelry""",3,0,0,No,Yes,24-01-2016,"""It's okay, not great but not bad either.""",neutral
+346,"""US""","""44794333""","""R3O30KEKG6XQC3""","""B00XVX9V8U""","""97477517""","""Jewelry""",1,1,1,No,Yes,25-01-2016," ""Waste of money. Really disappointing.""",negative
+347,"""US""","""32176919""","""R3M3Y3M9P7QRH5""","""B00DGNJIWY""","""601473854""","""Jewelry""",2,0,0,No,Yes,26-01-2016," ""Terrible experience, not recommended.""",negative
+348,"""US""","""21666549""","""R31Y2HEOWISMD7""","""B004POJT5O""","""761915771""","""Jewelry""",5,0,0,No,Yes,27-01-2016," ""Absolutely fantastic, loved it!""",positive
+349,"""US""","""18238567""","""R16YC6SMGKA8SR""","""B00MD99R9G""","""692935467""","""Jewelry""",2,23,23,No,Yes,28-01-2016," ""Terrible experience, not recommended.""",negative
+350,"""US""","""37930676""","""RINZZIQKFQ2UF""","""B00JWABJRC""","""793684048""","""Jewelry""",3,0,0,No,Yes,29-01-2016,"""It's okay, not great but not bad either.""",neutral
+351,"""US""","""1297040""","""R320UXQI64LNZI""","""B00NHXOS6Y""","""735530302""","""Jewelry""",5,0,0,No,Yes,30-01-2016," ""Absolutely fantastic, loved it!""",positive
+352,"""US""","""5964071""","""R1SNALD5L3Z87G""","""B00SU7JRD6""","""445592893""","""Jewelry""",5,1,1,No,Yes,31-01-2016," ""Absolutely fantastic, loved it!""",positive
+353,"""US""","""2930509""","""RWVAU5KRT1005""","""B00LVANWTO""","""306949299""","""Jewelry""",1,0,0,No,Yes,01-02-2016," ""Waste of money. Really disappointing.""",negative
+354,"""US""","""664003""","""RXVO4OU1R2EPC""","""B00MN6TAA0""","""138274085""","""Jewelry""",3,1,1,No,Yes,02-02-2016,"""It's okay, not great but not bad either.""",neutral
+355,"""US""","""34660670""","""R22P5KXN30JUE""","""B005DJBQV0""","""413257803""","""Jewelry""",5,0,0,No,Yes,03-02-2016," ""Absolutely fantastic, loved it!""",positive
+356,"""US""","""18147""","""R3T9XWA49P1YAB""","""B00PX4ID98""","""86896813""","""Jewelry""",5,0,0,No,Yes,04-02-2016," ""Absolutely fantastic, loved it!""",positive
+357,"""US""","""8280358""","""R23HWSEE37WLYS""","""B008OFYN9W""","""33239070""","""Jewelry""",5,1,1,No,Yes,05-02-2016," ""Absolutely fantastic, loved it!""",positive
+358,"""US""","""53085545""","""R340X5YAFZHM8J""","""B00IU0721C""","""35875232""","""Jewelry""",5,0,0,No,Yes,06-02-2016," ""Absolutely fantastic, loved it!""",positive
+359,"""US""","""5377623""","""R2IPE5KFI9W9WC""","""B00CNU1C2A""","""36846821""","""Jewelry""",4,0,0,No,Yes,07-02-2016," ""This product is amazing!""",positive
+360,"""US""","""1200708""","""R1U3B4U6ZSIT53""","""B0089SS39A""","""148665854""","""Jewelry""",5,0,0,No,Yes,08-02-2016," ""Absolutely fantastic, loved it!""",positive
+361,"""US""","""620244""","""RP926NJV7BZE1""","""B00C9UJ76M""","""658559522""","""Jewelry""",4,2,2,No,Yes,09-02-2016," ""This product is amazing!""",positive
+362,"""US""","""46501597""","""RA5H2319R3ENJ""","""B00QHAIASQ""","""645170176""","""Jewelry""",1,0,0,No,Yes,10-02-2016," ""Waste of money. Really disappointing.""",negative
+363,"""US""","""936258""","""R2CGAOG65PNUBL""","""B00QSLYHGI""","""588604691""","""Jewelry""",5,0,0,No,Yes,11-02-2016," ""Absolutely fantastic, loved it!""",positive
+364,"""US""","""6339817""","""R37INDRYRA7KPZ""","""B00CHMBKVC""","""883282485""","""Jewelry""",2,0,0,No,Yes,12-02-2016," ""Terrible experience, not recommended.""",negative
+365,"""US""","""34428760""","""R26CSWF77R60BB""","""B00GC3FQO4""","""352993026""","""Jewelry""",5,5,6,No,Yes,13-02-2016," ""Absolutely fantastic, loved it!""",positive
+366,"""US""","""28987335""","""R2E9638ZY3O62X""","""B00W9Q82T4""","""821901304""","""Jewelry""",2,0,1,No,Yes,14-02-2016," ""Terrible experience, not recommended.""",negative
+367,"""US""","""2176047""","""R3DXS94XA5NZPH""","""B010NA04GG""","""806448842""","""Jewelry""",3,1,3,No,Yes,15-02-2016,"""It's okay, not great but not bad either.""",neutral
+368,"""US""","""25668224""","""R3SV10MXKENB8D""","""B00BXJ1TXY""","""467167914""","""Jewelry""",4,0,0,No,Yes,16-02-2016," ""This product is amazing!""",positive
+369,"""US""","""52534435""","""R2ECYTTXEJC2KC""","""B0073LMQYW""","""47284979""","""Jewelry""",5,1,1,No,Yes,17-02-2016," ""Absolutely fantastic, loved it!""",positive
+370,"""US""","""21210928""","""R3ADB37ZZGXUW8""","""B00UO8UD4Q""","""676010737""","""Jewelry""",2,1,1,No,Yes,18-02-2016," ""Terrible experience, not recommended.""",negative
+371,"""US""","""28140828""","""RYCOH2ULJBHAS""","""B00TYVQ3FM""","""668172783""","""Jewelry""",3,3,3,No,Yes,19-02-2016,"""It's okay, not great but not bad either.""",neutral
+372,"""US""","""2612301""","""R3916IBP7DNZ8A""","""B004SHZFCO""","""426184927""","""Jewelry""",5,0,0,No,Yes,20-02-2016," ""Absolutely fantastic, loved it!""",positive
+373,"""US""","""5964071""","""R15RD63446NTX5""","""B00SZFGHAO""","""854241773""","""Jewelry""",5,1,2,No,Yes,21-02-2016," ""Absolutely fantastic, loved it!""",positive
+374,"""US""","""28509288""","""R3RR4OI7ASST1""","""B010EWIJ10""","""256734202""","""Jewelry""",4,0,0,No,Yes,22-02-2016," ""This product is amazing!""",positive
+375,"""US""","""52535937""","""RLB2N0HYDJ1Z6""","""B00U20YB44""","""207851951""","""Jewelry""",2,0,0,No,Yes,23-02-2016," ""Terrible experience, not recommended.""",negative
+376,"""US""","""17350921""","""R1GYY2Z6QCQLN""","""B00EDS7OUY""","""71049268""","""Jewelry""",1,0,1,No,Yes,24-02-2016," ""Waste of money. Really disappointing.""",negative
+377,"""US""","""13606507""","""R14NXPELD9P0F0""","""B002JAGEH2""","""508877419""","""Jewelry""",3,0,0,No,Yes,25-02-2016,"""It's okay, not great but not bad either.""",neutral
+378,"""US""","""995588""","""RLAQOIA2ZMAV""","""B007A3KQ6I""","""579072323""","""Jewelry""",2,0,0,No,Yes,26-02-2016," ""Terrible experience, not recommended.""",negative
+379,"""US""","""5964071""","""R16BHK0S6GEIB5""","""B00XQJKDQI""","""372663833""","""Jewelry""",1,2,2,No,Yes,27-02-2016," ""Waste of money. Really disappointing.""",negative
+380,"""US""","""14765851""","""R2OOABSG479O2U""","""B00KT8TDB0""","""823750672""","""Jewelry""",2,0,0,No,Yes,28-02-2016," ""Terrible experience, not recommended.""",negative
+381,"""US""","""2370481""","""R18ZWBT28CDAXE""","""B00CHUV02S""","""436304258""","""Jewelry""",1,0,0,No,No,29-02-2016," ""Waste of money. Really disappointing.""",negative
+382,"""US""","""11294895""","""RVQBFN5B5VGGW""","""B0098SEP2E""","""146864206""","""Jewelry""",4,0,0,No,Yes,01-03-2016," ""This product is amazing!""",positive
+383,"""US""","""43153609""","""R1F2VHMGXAIA8T""","""B000NXGR9M""","""854266499""","""Jewelry""",4,0,0,No,Yes,02-03-2016," ""This product is amazing!""",positive
+384,"""US""","""24103435""","""R3SOKTDULVSTMR""","""B00B2DO2JO""","""868167324""","""Jewelry""",5,0,0,No,Yes,03-03-2016," ""Absolutely fantastic, loved it!""",positive
+385,"""US""","""488280""","""R1RRJNBUK3640T""","""B00RICIN3O""","""35657810""","""Jewelry""",3,0,0,No,Yes,04-03-2016,"""It's okay, not great but not bad either.""",neutral
+386,"""US""","""2330702""","""R3RHH71HLOTLG""","""B00Y1YDKYO""","""533990552""","""Jewelry""",2,0,0,No,Yes,05-03-2016," ""Terrible experience, not recommended.""",negative
+387,"""US""","""1029151""","""R2R2IR2Z9THS1E""","""B00EEPSYE6""","""174540304""","""Jewelry""",1,2,2,No,Yes,06-03-2016," ""Waste of money. Really disappointing.""",negative
+388,"""US""","""42880959""","""R1LTHOV1FLIQCC""","""B00SODKBFE""","""896548854""","""Jewelry""",2,0,0,No,Yes,07-03-2016," ""Terrible experience, not recommended.""",negative
+389,"""US""","""41583822""","""R17OVEE1SR2NEM""","""B00UMGXJJQ""","""343925363""","""Jewelry""",3,0,0,No,Yes,08-03-2016,"""It's okay, not great but not bad either.""",neutral
+390,"""US""","""29283340""","""ROAMHR26LW537""","""B00RL1K79K""","""803782594""","""Jewelry""",3,2,2,No,Yes,09-03-2016,"""It's okay, not great but not bad either.""",neutral
+391,"""US""","""45953170""","""R1MWTEMOHW9U20""","""B00SZJFPJY""","""735659954""","""Jewelry""",4,3,3,No,Yes,10-03-2016," ""This product is amazing!""",positive
+392,"""US""","""899071""","""R3S1WWXZJVYG2H""","""B00AVZR1R4""","""307523484""","""Jewelry""",5,0,0,No,Yes,11-03-2016," ""Absolutely fantastic, loved it!""",positive
+393,"""US""","""50823959""","""R12DK3G35JSHRH""","""B0064BYT1A""","""343224019""","""Jewelry""",3,0,0,No,Yes,12-03-2016,"""It's okay, not great but not bad either.""",neutral
+394,"""US""","""158183""","""R3106T9Y80G0M9""","""B00QKOH4ZE""","""412743654""","""Jewelry""",1,1,1,No,Yes,13-03-2016," ""Waste of money. Really disappointing.""",negative
+395,"""US""","""15059347""","""R2PZ39KP43RRO1""","""B00QD52W16""","""396840564""","""Jewelry""",2,2,2,No,Yes,14-03-2016," ""Terrible experience, not recommended.""",negative
+396,"""US""","""14522766""","""RBJNF33NUT0P""","""B00GINHC1I""","""468900310""","""Jewelry""",4,0,0,No,Yes,15-03-2016," ""This product is amazing!""",positive
